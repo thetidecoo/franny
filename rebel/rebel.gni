@@ -43,7 +43,7 @@ declare_args() {
   # The remote URL of your New Tab Page. The New Tab Page may make use of the
   # Rebel Browser API (https://rebelbrowser.github.io/browser_api/) to render
   # e.g. most-visited tiles, theme settings, autocomplete results, etc.
-  rebel_new_tab_page_url = "chrome;//newtab"
+  rebel_new_tab_page_url = "chrome://newtab"
 
   # The remote URL to be used for "help" links, e.g. a discussion forum or FAQ.
   rebel_help_url = "https://discord.gg/MNPeXZuR"
