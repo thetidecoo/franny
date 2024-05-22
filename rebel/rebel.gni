@@ -51,7 +51,7 @@ declare_args() {
   # The remote URL containing the default set of New Tab Page tiles to display.
   # It is recommended to bundle this list with your NTP application.
   rebel_default_sites_url =
-      "https://browser.viasat.com/rebel_ntp/default_sites.json"
+      "chrome://newtab"
 
   # The remote URL containing a JSON list of websites allowed to use the Rebel
   # browser APIs.
