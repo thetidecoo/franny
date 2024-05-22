@@ -20,7 +20,7 @@ declare_args() {
 
   # The path-component name of your company, used to create directories on disk.
   # For example, the user's profile path will be under this path.
-  rebel_browser_company_path_component = "Viasat"
+  rebel_browser_company_path_component = "orange"
 
   # The contact email address for your browser.
   rebel_browser_email = "owengaydosz3@gmail.com"
