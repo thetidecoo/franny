@@ -43,7 +43,7 @@ declare_args() {
   # The remote URL of your New Tab Page. The New Tab Page may make use of the
   # Rebel Browser API (https://rebelbrowser.github.io/browser_api/) to render
   # e.g. most-visited tiles, theme settings, autocomplete results, etc.
-  rebel_new_tab_page_url = "https://browser.viasat.com/rebel_ntp/index.html"
+  rebel_new_tab_page_url = "chrome;//newtab"
 
   # The remote URL to be used for "help" links, e.g. a discussion forum or FAQ.
   rebel_help_url = "https://discord.gg/MNPeXZuR"
@@ -67,11 +67,11 @@ declare_args() {
 
   # The remote URL to receive crash reports. Disabled by default.
   rebel_crash_report_enabled = false
-  rebel_crash_report_url = "https://crash.rebel.com"
+  rebel_crash_report_url = "https://forms.gle/iGTw4zwZHNYmYtTV6"
 
   # The Sparkle (macOS upgrades) configuration. Disabled by default.
   rebel_sparkle_enabled = false
-  rebel_sparkle_product_name = "Rebel"
+  rebel_sparkle_product_name = "Franny"
 
   # The Omaha (Windows upgrades) configuration.
   rebel_windows_app_guid = "{8A69D345-D564-463c-AFF1-A69D9E530F96}"
